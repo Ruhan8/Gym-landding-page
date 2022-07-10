@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url(/bg\ pic.jpg);
+    background: url(./bg_pic.jpg);
     color: white;
     font-family: 'Merriweather', serif;
     font-family: 'Montserrat', sans-serif;
